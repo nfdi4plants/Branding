@@ -5,7 +5,7 @@ Information about DataPLANT branding (color schemes etc.)
 ### Light/Dark Base Colors:
 
 | Preview | Name | Hex |
-|---|---|---|---|---|
+|---|---|---|
 | ![white](https://img.shields.io/badge/white-example-FEFEFE) | white | #FEFEFE | 
 | ![lightgray](https://img.shields.io/badge/lightgray-example-ECEBEB) | lightgray | #ECEBEB | 
 | ![black](https://img.shields.io/badge/black-example-3A3A3A) | black | #3A3A3A | 
@@ -13,7 +13,7 @@ Information about DataPLANT branding (color schemes etc.)
 ### Base Colors:
 
 | Preview | Name | Hex |
-|---|---|---|---|---|
+|---|---|---|
 | ![mint](https://img.shields.io/badge/mint-example-1FC2A7) | mint | #1FC2A7 | 
 | ![lightblue](https://img.shields.io/badge/lightblue-example-4FB3D9) | lightblue | #4FB3D9 | 
 | ![darkblue](https://img.shields.io/badge/darkblue-example-2D3E50) | darkblue | #2D3E50 | 
