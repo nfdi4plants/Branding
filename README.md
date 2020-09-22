@@ -1,6 +1,9 @@
-
 # Branding
 Information about DataPLANT branding (color schemes etc.)
+
+### TLDR;
+
+Copy-paste [this](colors.scss) in your css file.  
 
 ### Light/Dark Base Colors:
 
