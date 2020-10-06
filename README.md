@@ -3,7 +3,10 @@ Information about DataPLANT branding (color schemes etc.)
 
 ### TLDR;
 
-Copy-paste [this](colors.scss) in your css file.  
+- **Web:** Copy-paste [this](colors.scss) in your css file.  
+- **Affinity Designer/Photo/Publisher** : use [this palette](NFDI.afpalette)
+
+
 
 ### Light/Dark Base Colors:
 
