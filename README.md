@@ -4,6 +4,7 @@ logos, colorschemes, etc. of DataPLANT and associated applications
 
 <!-- TOC -->
 
+- [Fonts](#fonts)
 - [Logos (svg)](#logos-svg)
     - [DataPLANT](#dataplant)
         - [transparent background](#transparent-background)
@@ -27,6 +28,10 @@ logos, colorschemes, etc. of DataPLANT and associated applications
         - [olive](#olive)
 
 <!-- /TOC -->
+
+## Fonts
+
+The main font of all logos is [Gulim](https://gettyfonts.net/de/font/gulim/download)
 
 ## Logos (svg)
 
