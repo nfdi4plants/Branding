@@ -10,6 +10,11 @@ logos, colorschemes, etc. of DataPLANT and associated applications
         - [black background](#black-background)
         - [darkblue background](#darkblue-background)
         - [lightblue background](#lightblue-background)
+    - [Swate](#swate)
+        - [transparent background](#transparent-background-1)
+        - [black background](#black-background-1)
+        - [darkblue background](#darkblue-background-1)
+        - [lightblue background](#lightblue-background-1)
 - [Colors](#colors)
     - [TLDR;](#tldr)
     - [Light/Dark Base Colors](#lightdark-base-colors)
@@ -43,6 +48,23 @@ logos, colorschemes, etc. of DataPLANT and associated applications
 
 ![DataPLANT_logo_bg_lightblue](logos/DataPLANT_logo_bg_lightblue.svg)
 
+### Swate
+
+#### transparent background
+
+![Swate_logo_bg_transparent](logos/Swate_logo_bg_transparent.svg)
+
+#### black background
+
+![Swate_logo_bg_black](logos/Swate_logo_bg_black.svg)
+
+#### darkblue background
+
+![Swate_logo_bg_darkblue](logos/Swate_logo_bg_darkblue.svg)
+
+#### lightblue background
+
+![Swate_logo_bg_lightblue](logos/Swate_logo_bg_lightblue.svg)
 
 ## Colors
 
