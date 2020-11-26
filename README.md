@@ -1,14 +1,59 @@
 # Branding
-Information about DataPLANT branding (color schemes etc.)
+
+logos, colorschemes, etc. of DataPLANT and associated applications 
+
+<!-- TOC -->
+
+- [Logos (svg)](#logos-svg)
+    - [DataPLANT](#dataplant)
+        - [transparent background](#transparent-background)
+        - [black background](#black-background)
+        - [darkblue background](#darkblue-background)
+        - [lightblue background](#lightblue-background)
+- [Colors](#colors)
+    - [TLDR;](#tldr)
+    - [Light/Dark Base Colors](#lightdark-base-colors)
+    - [Base Colors](#base-colors)
+    - [Shading](#shading)
+        - [mint](#mint)
+        - [lightblue](#lightblue)
+        - [darkblue](#darkblue)
+        - [yellow](#yellow)
+        - [olive](#olive)
+
+<!-- /TOC -->
+
+## Logos (svg)
+
+### DataPLANT
+
+#### transparent background
+
+![DataPLANT_logo_bg_transparent](logos/DataPLANT_logo_bg_transparent.svg)
+
+#### black background
+
+![DataPLANT_logo_bg_black](logos/DataPLANT_logo_bg_black.svg)
+
+#### darkblue background
+
+![DataPLANT_logo_bg_darkblue](logos/DataPLANT_logo_bg_darkblue.svg)
+
+#### lightblue background
+
+![DataPLANT_logo_bg_lightblue](logos/DataPLANT_logo_bg_lightblue.svg)
+
+
+## Colors
 
 ### TLDR;
 
-- **Web:** Copy-paste [this](colors.scss) in your css file.  
-- **Affinity Designer/Photo/Publisher** : use [this palette](NFDI.afpalette)
+- **Web:** Copy-paste [this](src/colors.scss) in your css file.  
+- **Affinity Designer/Photo/Publisher** : use [this palette](src/NFDI.afpalette)
 
 
 
-### Light/Dark Base Colors:
+### Light/Dark Base Colors
 
 | Preview | Name | Hex |
 |---|---|---|
@@ -16,7 +61,7 @@ Information about DataPLANT branding (color schemes etc.)
 | ![lightgray](https://img.shields.io/badge/lightgray-example-ECEBEB) | lightgray | #ECEBEB | 
 | ![black](https://img.shields.io/badge/black-example-3A3A3A) | black | #3A3A3A | 
 
-### Base Colors:
+### Base Colors
 
 | Preview | Name | Hex |
 |---|---|---|
@@ -28,7 +73,7 @@ Information about DataPLANT branding (color schemes etc.)
 
 ### Shading
 
-#### mint:
+#### mint
 - darker: 
 
     ![mint-shading-darker](img/mint-shading-darker.png)
@@ -44,7 +89,7 @@ Information about DataPLANT branding (color schemes etc.)
     |---|---|---|---|---|---|---|---|---|---|---|
     | #1fc2a7| #35c8b0| #4cceb9| #62d4c1| #79daca| #8fe1d3| #a5e7dc| #bcede5| #d2f3ed| #e9f9f6| #ffffff
     
-#### lightblue:
+#### lightblue
 - darker: 
 
     ![light-blue-shading-darker](img/light-blue-shading-darker.png)
@@ -61,7 +106,7 @@ Information about DataPLANT branding (color schemes etc.)
     |---|---|---|---|---|---|---|---|---|---|---|
     | #4fb3d9| #61bbdd| #72c2e1| #84cae4| #95d1e8| #a7d9ec| #b9e1f0| #cae8f4| #dcf0f7| #edf7fb| #ffffff
 
-#### darkblue:
+#### darkblue
 - darker: 
 
     ![dar-kblue-shading-darker](img/dark-blue-shading-darker.png)
@@ -78,8 +123,8 @@ Information about DataPLANT branding (color schemes etc.)
     |---|---|---|---|---|---|---|---|---|---|---|
     | #2d3e50| #425162| #576573| #6c7885| #818b96| #969fa8| #abb2b9| #c0c5cb| #d5d8dc| #eaecee| #ffffff
 
-#### yellow:
-- darker: 
+#### yellow
+- darker:
 
     ![yellow-shading-darker](img/yellow-shading-darker.png)
 
@@ -95,7 +140,7 @@ Information about DataPLANT branding (color schemes etc.)
     |---|---|---|---|---|---|---|---|---|---|---|
     | #ffc000| #ffc61a| #ffcd33| #ffd34d| #ffd966| #ffe080| #ffe699| #ffecb3| #fff2cc| #fff9e6| #ffffff
 
-#### olive:
+#### olive
 - darker: 
 
     ![olive-shading-darker](img/olive-shading-darker.png)

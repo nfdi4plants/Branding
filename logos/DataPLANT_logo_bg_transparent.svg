@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1600 750" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-miterlimit:8;">
+    <g transform="matrix(1,0,0,1,-454.157,-70.7805)">
+        <g transform="matrix(0.752763,0,0,0.752763,316.145,-874.595)">
+            <g transform="matrix(0.989825,0,0,1.04933,-59.7731,-43.4228)">
+                <rect x="245.613" y="1238.21" width="2146.14" height="949.297" style="fill:none;"/>
+            </g>
+            <g transform="matrix(0.500232,0,0,0.499284,250.823,1841.86)">
+                <text x="0px" y="0px" style="font-family:'Gulim', sans-serif;font-size:667px;fill:rgb(79,179,217);">D</text>
+                <text x="480.786px" y="0px" style="font-family:'Gulim', sans-serif;font-size:667px;fill:rgb(79,179,217);">a</text>
+                <text x="860.122px" y="0px" style="font-family:'Gulim', sans-serif;font-size:667px;fill:rgb(79,179,217);">t</text>
+                <text x="1092.79px" y="0px" style="font-family:'Gulim', sans-serif;font-size:667px;fill:rgb(79,179,217);">a</text>
+                <text x="1989.5px" y="0px" style="font-family:'Gulim', sans-serif;font-size:667px;fill:rgb(79,179,217);">P</text>
+                <text x="2394.3px" y="0px" style="font-family:'Gulim', sans-serif;font-size:667px;fill:rgb(79,179,217);">L</text>
+                <text x="2747.61px" y="0px" style="font-family:'Gulim', sans-serif;font-size:667px;fill:rgb(79,179,217);">A</text>
+                <text x="3164.28px" y="0px" style="font-family:'Gulim', sans-serif;font-size:667px;fill:rgb(79,179,217);">N</text>
+                <text x="3615.08px" y="0px" style="font-family:'Gulim', sans-serif;font-size:667px;fill:rgb(79,179,217);">T</text>
+            </g>
+            <g transform="matrix(0.0625289,0,0,0.0624105,50.3566,1303.58)">
+                <path d="M14282,3229C16486,6043 15992,10110 13178,12314" style="fill:none;stroke:rgb(172,172,172);stroke-width:300.28px;"/>
+            </g>
+            <g transform="matrix(0.0625289,0,0,0.0624105,50.3566,1303.58)">
+                <path d="M18949,2577C16745,5390 17240,9458 20053,11662" style="fill:none;stroke:rgb(172,172,172);stroke-width:300.28px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,50.3566,1303.58)">
+                <rect x="200.593" y="0" width="1978.42" height="900.709" style="fill:none;"/>
+                <clipPath id="_clip1">
+                    <rect x="200.593" y="0" width="1978.42" height="900.709"/>
+                </clipPath>
+                <g clip-path="url(#_clip1)">
+                    <g transform="matrix(0.0625289,0,0,0.0624105,0,0)">
+                        <path d="M14421,153C18020,4749 17624,11070 13536,14272" style="fill:none;stroke:rgb(172,172,172);stroke-width:300.28px;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
