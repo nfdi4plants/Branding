@@ -96,7 +96,8 @@ The main font of all logos is [Gulim](https://gettyfonts.net/de/font/gulim/downl
 | ![lightblue](https://img.shields.io/badge/lightblue-example-4FB3D9) | lightblue | #4FB3D9 | 
 | ![darkblue](https://img.shields.io/badge/darkblue-example-2D3E50) | darkblue | #2D3E50 | 
 | ![yellow](https://img.shields.io/badge/yellow-example-FFC000) | yellow | #FFC000 | 
-| ![olive](https://img.shields.io/badge/olive-example-B4CE82) | olive | #B4CE82| 
+| ![olive](https://img.shields.io/badge/olive-example-B4CE82) | olive | #B4CE82 | 
+| ![red](https://img.shields.io/badge/red-example-C21F3A) | red | #C21F3A | 
 
 ### Shading
 
@@ -108,9 +109,10 @@ The main font of all logos is [Gulim](https://gettyfonts.net/de/font/gulim/downl
     | base | 10% | 20% | 30% | 40% | 50% | 60% | 70% | 80% | 90% | black |
     |---|---|---|---|---|---|---|---|---|---|---|
     | #1fc2a7 | #1caf96 | #199b86 | #168875 | #137464 | #106154 | #0c4e43 | #093a32 | #062721 | #031311 | #000000 |
+
 - lighter:
 
-    ![mint-shading-darker](img/mint-shading-lighter.png)
+    ![mint-shading-lighter](img/mint-shading-lighter.png)
 
     | base | 10% | 20% | 30% | 40% | 50% | 60% | 70% | 80% | 90% | white |
     |---|---|---|---|---|---|---|---|---|---|---|
@@ -144,7 +146,7 @@ The main font of all logos is [Gulim](https://gettyfonts.net/de/font/gulim/downl
 
 - lighter:
 
-    ![dark-blue-shading-darker](img/dark-blue-shading-lighter.png)
+    ![dark-blue-shading-lighter](img/dark-blue-shading-lighter.png)
 
     | base | 10% | 20% | 30% | 40% | 50% | 60% | 70% | 80% | 90% | white |
     |---|---|---|---|---|---|---|---|---|---|---|
@@ -161,7 +163,7 @@ The main font of all logos is [Gulim](https://gettyfonts.net/de/font/gulim/downl
 
 - lighter:
 
-    ![yellow-shading-darker](img/yellow-shading-lighter.png)
+    ![yellow-shading-lighter](img/yellow-shading-lighter.png)
 
     | base | 10% | 20% | 30% | 40% | 50% | 60% | 70% | 80% | 90% | white |
     |---|---|---|---|---|---|---|---|---|---|---|
@@ -178,10 +180,26 @@ The main font of all logos is [Gulim](https://gettyfonts.net/de/font/gulim/downl
 
 - lighter:
 
-    ![olive-shading-darker](img/olive-shading-lighter.png)
+    ![olive-shading-lighter](img/olive-shading-lighter.png)
 
     | base | 10% | 20% | 30% | 40% | 50% | 60% | 70% | 80% | 90% | white |
     |---|---|---|---|---|---|---|---|---|---|---|
     | #b4ce82| #bcd38f| #c3d89b| #cbdda8| #d2e2b4| #dae7c1| #e1ebcd| #e9f0da| #f0f5e6| #f8faf3| #ffffff
 
+#### red
 
+- darker: 
+
+    ![red-shading-darker](img/red-shading-darker.png)
+
+    | base | 10% | 20% | 30% | 40% | 50% | 60% | 70% | 80% | 90% | black |
+    |---|---|---|---|---|---|---|---|---|---|---|
+    | #c21f3a| #AE1B34| #9B182E| #871528| #741222| #600F1D| #4D0C17| #3A0911| #26060B| #130305| #000000
+
+- lighter:
+
+    ![red-shading-lighter](img/red-shading-lighter.png)
+
+    | base | 10% | 20% | 30% | 40% | 50% | 60% | 70% | 80% | 90% | white |
+    |---|---|---|---|---|---|---|---|---|---|---|
+    | #c21f3a| #C8354D| #CE4B61| #D46275| #DA7888| #E08F9C| #E6A5B0| #ECBBC3| #F2D2D7| #F8E8EB| #ffffff
