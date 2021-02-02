@@ -8,23 +8,21 @@ logos, colorschemes, etc. of DataPLANT and associated applications
 - [Logos (svg)](#logos-svg)
     - [DataPLANT](#dataplant)
         - [square](#square)
+        - [minimal - square](#minimal---square)
+        - [minimal - rounded](#minimal---rounded)
+        - [full width](#full-width)
             - [transparent background](#transparent-background)
             - [black background](#black-background)
             - [darkblue background](#darkblue-background)
             - [lightblue background](#lightblue-background)
-        - [full width](#full-width)
-            - [transparent background](#transparent-background-1)
-            - [black background](#black-background-1)
-            - [darkblue background](#darkblue-background-1)
-            - [lightblue background](#lightblue-background-1)
     - [Swate](#swate)
         - [full width](#full-width-1)
-            - [transparent background](#transparent-background-2)
+            - [transparent background](#transparent-background-1)
             - [for excel (transparent background)](#for-excel-transparent-background)
-            - [black background](#black-background-2)
+            - [black background](#black-background-1)
             - [white background](#white-background)
-            - [darkblue background](#darkblue-background-2)
-            - [lightblue background](#lightblue-background-2)
+            - [darkblue background](#darkblue-background-1)
+            - [lightblue background](#lightblue-background-1)
         - [icons for Excel](#icons-for-excel)
 - [Colors](#colors)
     - [TLDR;](#tldr)
@@ -50,21 +48,37 @@ The main font of all logos is [Gulim](https://gettyfonts.net/de/font/gulim/downl
 
 #### square
 
-##### transparent background
+- Variant1 - bg_transparent
+- Variant2 - bg_black
+- Variant3 - bg_darkblue
+- Variant4 - bg_lightblue
 
-![DataPLANT_logo_bg_transparent](logos/DataPLANT_logo_square_bg_transparent.svg)
+| Variant1 | Variant2 | Variant3 | Variant4 |
+|---|---|---|---|
+| ![DataPLANT_logo_bg_transparent](logos/DataPLANT_logo_square_bg_transparent.svg) | ![DataPLANT_logo_bg_black](logos/DataPLANT_logo_square_bg_black.svg) | ![DataPLANT_logo_bg_darkblue](logos/DataPLANT_logo_square_bg_darkblue.svg) | ![DataPLANT_logo_bg_lightblue](logos/DataPLANT_logo_square_bg_lightblue.svg) |
 
-##### black background
+#### minimal - square
 
-![DataPLANT_logo_bg_black](logos/DataPLANT_logo_square_bg_black.svg)
 
-##### darkblue background
+- Variant1 - bg_transparent
+- Variant2 - bg_black
+- Variant3 - bg_darkblue
+- Variant4 - bg_lightblue
 
-![DataPLANT_logo_bg_darkblue](logos/DataPLANT_logo_square_bg_darkblue.svg)
+| Variant1 | Variant2 | Variant3 | Variant4 |
+|---|---|---|---|
+| ![DataPLANT_logo_bg_transparent](logos/DataPLANT_logo_minimal_square_bg_transparent.svg) | ![DataPLANT_logo_bg_black](logos/DataPLANT_logo_minimal_square_bg_black.svg) | ![DataPLANT_logo_bg_darkblue](logos/DataPLANT_logo_minimal_square_bg_darkblue.svg) | ![DataPLANT_logo_bg_lightblue](logos/DataPLANT_logo_minimal_square_bg_lightblue.svg) |
 
-##### lightblue background
+#### minimal - rounded
 
-![DataPLANT_logo_bg_lightblue](logos/DataPLANT_logo_square_bg_lightblue.svg)
+- Variant1 - bg_transparent
+- Variant2 - bg_black
+- Variant3 - bg_darkblue
+- Variant4 - bg_lightblue
+
+| Variant1 | Variant2 | Variant3 | Variant4 |
+|---|---|---|---|
+| ![DataPLANT_logo_bg_transparent](logos/DataPLANT_logo_minimal_rounded_bg_transparent.svg) | ![DataPLANT_logo_bg_black](logos/DataPLANT_logo_minimal_rounded_bg_black.svg) | ![DataPLANT_logo_bg_darkblue](logos/DataPLANT_logo_minimal_rounded_bg_darkblue.svg) | ![DataPLANT_logo_bg_lightblue](logos/DataPLANT_logo_minimal_rounded_bg_lightblue.svg) |
 
 #### full width
 
