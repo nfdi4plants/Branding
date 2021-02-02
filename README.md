@@ -7,15 +7,25 @@ logos, colorschemes, etc. of DataPLANT and associated applications
 - [Fonts](#fonts)
 - [Logos (svg)](#logos-svg)
     - [DataPLANT](#dataplant)
-        - [transparent background](#transparent-background)
-        - [black background](#black-background)
-        - [darkblue background](#darkblue-background)
-        - [lightblue background](#lightblue-background)
+        - [square](#square)
+            - [transparent background](#transparent-background)
+            - [black background](#black-background)
+            - [darkblue background](#darkblue-background)
+            - [lightblue background](#lightblue-background)
+        - [full width](#full-width)
+            - [transparent background](#transparent-background-1)
+            - [black background](#black-background-1)
+            - [darkblue background](#darkblue-background-1)
+            - [lightblue background](#lightblue-background-1)
     - [Swate](#swate)
-        - [transparent background](#transparent-background-1)
-        - [black background](#black-background-1)
-        - [darkblue background](#darkblue-background-1)
-        - [lightblue background](#lightblue-background-1)
+        - [full width](#full-width-1)
+            - [transparent background](#transparent-background-2)
+            - [for excel (transparent background)](#for-excel-transparent-background)
+            - [black background](#black-background-2)
+            - [white background](#white-background)
+            - [darkblue background](#darkblue-background-2)
+            - [lightblue background](#lightblue-background-2)
+        - [icons for Excel](#icons-for-excel)
 - [Colors](#colors)
     - [TLDR;](#tldr)
     - [Light/Dark Base Colors](#lightdark-base-colors)
@@ -26,6 +36,7 @@ logos, colorschemes, etc. of DataPLANT and associated applications
         - [darkblue](#darkblue)
         - [yellow](#yellow)
         - [olive](#olive)
+        - [red](#red)
 
 <!-- /TOC -->
 
@@ -37,39 +48,77 @@ The main font of all logos is [Gulim](https://gettyfonts.net/de/font/gulim/downl
 
 ### DataPLANT
 
-#### transparent background
+#### square
+
+##### transparent background
+
+![DataPLANT_logo_bg_transparent](logos/DataPLANT_logo_square_bg_transparent.svg)
+
+##### black background
+
+![DataPLANT_logo_bg_black](logos/DataPLANT_logo_square_bg_black.svg)
+
+##### darkblue background
+
+![DataPLANT_logo_bg_darkblue](logos/DataPLANT_logo_square_bg_darkblue.svg)
+
+##### lightblue background
+
+![DataPLANT_logo_bg_lightblue](logos/DataPLANT_logo_square_bg_lightblue.svg)
+
+#### full width
+
+##### transparent background
 
 ![DataPLANT_logo_bg_transparent](logos/DataPLANT_logo_bg_transparent.svg)
 
-#### black background
+##### black background
 
 ![DataPLANT_logo_bg_black](logos/DataPLANT_logo_bg_black.svg)
 
-#### darkblue background
+##### darkblue background
 
 ![DataPLANT_logo_bg_darkblue](logos/DataPLANT_logo_bg_darkblue.svg)
 
-#### lightblue background
+##### lightblue background
 
 ![DataPLANT_logo_bg_lightblue](logos/DataPLANT_logo_bg_lightblue.svg)
 
 ### Swate
 
-#### transparent background
+#### full width
+
+##### transparent background
 
 ![Swate_logo_bg_transparent](logos/Swate_logo_bg_transparent.svg)
 
-#### black background
+##### for excel (transparent background)
+
+![Swate_logo_bg_transparent](logos/Swate_logo_for_excel.svg)
+
+##### black background
 
 ![Swate_logo_bg_black](logos/Swate_logo_bg_black.svg)
 
-#### darkblue background
+##### white background
+
+![Swate_logo_bg_transparent](logos/Swate_logo_bg_white.svg)
+
+##### darkblue background
 
 ![Swate_logo_bg_darkblue](logos/Swate_logo_bg_darkblue.svg)
 
-#### lightblue background
+##### lightblue background
 
 ![Swate_logo_bg_lightblue](logos/Swate_logo_bg_lightblue.svg)
+
+#### icons for Excel
+
+16x16 - 96x96 icons are contained in [this folder](icons)
+
+| 16x16 | 20x20 | 24x24 | 32x32 | 40x40 | 48x48 | 64x64 | 80x80 | 96x96 |
+|---|---|---|---|---|---|---|---|---|
+|![](icons/swate_16x16.png)|![](icons/swate_20x20.png)|![](icons/swate_24x24.png)|![](icons/swate_32x32.png)|![](icons/swate_40x40.png)|![](icons/swate_48x48.png)|![](icons/swate_64x64.png)|![](icons/swate_80x80.png)|![](icons/swate_96x96.png)|
 
 ## Colors
 
