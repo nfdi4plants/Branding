@@ -138,7 +138,7 @@ The main font of all logos is [Gulim](https://gettyfonts.net/de/font/gulim/downl
 
 ### TLDR;
 
-- **Web:** Copy-paste [this](src/colors.scss) in your css file.  
+- **Web:** Copy-paste or include [this](src/nfdi-colors.scss) in your scss file / sass workflow.  
 - **Affinity Designer/Photo/Publisher** : use [this palette](src/NFDI.afpalette)
 
 
