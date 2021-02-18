@@ -5,8 +5,9 @@ logos, colorschemes, etc. of DataPLANT and associated applications
 <!-- TOC -->
 
 - [Fonts](#fonts)
-- [Logos (svg)](#logos-svg)
+- [Logos](#logos)
     - [DataPLANT](#dataplant)
+        - [favicons](#favicons)
         - [square](#square)
         - [minimal - square](#minimal---square)
         - [minimal - rounded](#minimal---rounded)
@@ -16,6 +17,8 @@ logos, colorschemes, etc. of DataPLANT and associated applications
             - [darkblue background](#darkblue-background)
             - [lightblue background](#lightblue-background)
     - [Swate](#swate)
+        - [favicons](#favicons-1)
+        - [icons for Excel](#icons-for-excel)
         - [full width](#full-width-1)
             - [transparent background](#transparent-background-1)
             - [for excel (transparent background)](#for-excel-transparent-background)
@@ -23,7 +26,6 @@ logos, colorschemes, etc. of DataPLANT and associated applications
             - [white background](#white-background)
             - [darkblue background](#darkblue-background-1)
             - [lightblue background](#lightblue-background-1)
-        - [icons for Excel](#icons-for-excel)
 - [Colors](#colors)
     - [TLDR;](#tldr)
     - [Light/Dark Base Colors](#lightdark-base-colors)
@@ -42,9 +44,20 @@ logos, colorschemes, etc. of DataPLANT and associated applications
 
 The main font of all logos is [Gulim](https://gettyfonts.net/de/font/gulim/download)
 
-## Logos (svg)
+## Logos
 
 ### DataPLANT
+
+#### favicons
+
+- Variant1 - bg_transparent
+- Variant2 - bg_black
+- Variant3 - bg_darkblue
+- Variant4 - bg_lightblue
+
+| Variant1 | Variant2 | Variant3 | Variant4 |
+|---|---|---|---|
+| ![DataPLANT_logo_bg_transparent](icons/DataPLANT/favicons/favicon_bg_transparent.png) | ![DataPLANT_logo_bg_black](icons/DataPLANT/favicons/favicon_bg_black.png) | ![DataPLANT_logo_bg_darkblue](icons/DataPLANT/favicons/favicon_bg_darkblue.png) | ![DataPLANT_logo_bg_lightblue](icons/DataPLANT/favicons/favicon_bg_lightblue.png) |
 
 #### square
 
@@ -55,7 +68,7 @@ The main font of all logos is [Gulim](https://gettyfonts.net/de/font/gulim/downl
 
 | Variant1 | Variant2 | Variant3 | Variant4 |
 |---|---|---|---|
-| ![DataPLANT_logo_bg_transparent](logos/DataPLANT_logo_square_bg_transparent.svg) | ![DataPLANT_logo_bg_black](logos/DataPLANT_logo_square_bg_black.svg) | ![DataPLANT_logo_bg_darkblue](logos/DataPLANT_logo_square_bg_darkblue.svg) | ![DataPLANT_logo_bg_lightblue](logos/DataPLANT_logo_square_bg_lightblue.svg) |
+| ![DataPLANT_logo_bg_transparent](logos/DataPLANT/DataPLANT_logo_square_bg_transparent.svg) | ![DataPLANT_logo_bg_black](logos/DataPLANT/DataPLANT_logo_square_bg_black.svg) | ![DataPLANT_logo_bg_darkblue](logos/DataPLANT/DataPLANT_logo_square_bg_darkblue.svg) | ![DataPLANT_logo_bg_lightblue](logos/DataPLANT/DataPLANT_logo_square_bg_lightblue.svg) |
 
 #### minimal - square
 
@@ -67,7 +80,7 @@ The main font of all logos is [Gulim](https://gettyfonts.net/de/font/gulim/downl
 
 | Variant1 | Variant2 | Variant3 | Variant4 |
 |---|---|---|---|
-| ![DataPLANT_logo_bg_transparent](logos/DataPLANT_logo_minimal_square_bg_transparent.svg) | ![DataPLANT_logo_bg_black](logos/DataPLANT_logo_minimal_square_bg_black.svg) | ![DataPLANT_logo_bg_darkblue](logos/DataPLANT_logo_minimal_square_bg_darkblue.svg) | ![DataPLANT_logo_bg_lightblue](logos/DataPLANT_logo_minimal_square_bg_lightblue.svg) |
+| ![DataPLANT_logo_bg_transparent](logos/DataPLANT/DataPLANT_logo_minimal_square_bg_transparent.svg) | ![DataPLANT_logo_bg_black](logos/DataPLANT/DataPLANT_logo_minimal_square_bg_black.svg) | ![DataPLANT_logo_bg_darkblue](logos/DataPLANT/DataPLANT_logo_minimal_square_bg_darkblue.svg) | ![DataPLANT_logo_bg_lightblue](logos/DataPLANT/DataPLANT_logo_minimal_square_bg_lightblue.svg) |
 
 #### minimal - rounded
 
@@ -78,53 +91,30 @@ The main font of all logos is [Gulim](https://gettyfonts.net/de/font/gulim/downl
 
 | Variant1 | Variant2 | Variant3 | Variant4 |
 |---|---|---|---|
-| ![DataPLANT_logo_bg_transparent](logos/DataPLANT_logo_minimal_rounded_bg_transparent.svg) | ![DataPLANT_logo_bg_black](logos/DataPLANT_logo_minimal_rounded_bg_black.svg) | ![DataPLANT_logo_bg_darkblue](logos/DataPLANT_logo_minimal_rounded_bg_darkblue.svg) | ![DataPLANT_logo_bg_lightblue](logos/DataPLANT_logo_minimal_rounded_bg_lightblue.svg) |
+| ![DataPLANT_logo_bg_transparent](logos/DataPLANT/DataPLANT_logo_minimal_rounded_bg_transparent.svg) | ![DataPLANT_logo_bg_black](logos/DataPLANT/DataPLANT_logo_minimal_rounded_bg_black.svg) | ![DataPLANT_logo_bg_darkblue](logos/DataPLANT/DataPLANT_logo_minimal_rounded_bg_darkblue.svg) | ![DataPLANT_logo_bg_lightblue](logos/DataPLANT/DataPLANT_logo_minimal_rounded_bg_lightblue.svg) |
 
 #### full width
 
 ##### transparent background
 
-![DataPLANT_logo_bg_transparent](logos/DataPLANT_logo_bg_transparent.svg)
+![DataPLANT_logo_bg_transparent](logos/DataPLANT/DataPLANT_logo_bg_transparent.svg)
 
 ##### black background
 
-![DataPLANT_logo_bg_black](logos/DataPLANT_logo_bg_black.svg)
+![DataPLANT_logo_bg_black](logos/DataPLANT/DataPLANT_logo_bg_black.svg)
 
 ##### darkblue background
 
-![DataPLANT_logo_bg_darkblue](logos/DataPLANT_logo_bg_darkblue.svg)
+![DataPLANT_logo_bg_darkblue](logos/DataPLANT/DataPLANT_logo_bg_darkblue.svg)
 
 ##### lightblue background
 
-![DataPLANT_logo_bg_lightblue](logos/DataPLANT_logo_bg_lightblue.svg)
+![DataPLANT_logo_bg_lightblue](logos/DataPLANT/DataPLANT_logo_bg_lightblue.svg)
 
 ### Swate
 
-#### full width
+#### favicons
 
-##### transparent background
-
-![Swate_logo_bg_transparent](logos/Swate_logo_bg_transparent.svg)
-
-##### for excel (transparent background)
-
-![Swate_logo_bg_transparent](logos/Swate_logo_for_excel.svg)
-
-##### black background
-
-![Swate_logo_bg_black](logos/Swate_logo_bg_black.svg)
-
-##### white background
-
-![Swate_logo_bg_transparent](logos/Swate_logo_bg_white.svg)
-
-##### darkblue background
-
-![Swate_logo_bg_darkblue](logos/Swate_logo_bg_darkblue.svg)
-
-##### lightblue background
-
-![Swate_logo_bg_lightblue](logos/Swate_logo_bg_lightblue.svg)
 
 #### icons for Excel
 
@@ -132,7 +122,34 @@ The main font of all logos is [Gulim](https://gettyfonts.net/de/font/gulim/downl
 
 | 16x16 | 20x20 | 24x24 | 32x32 | 40x40 | 48x48 | 64x64 | 80x80 | 96x96 |
 |---|---|---|---|---|---|---|---|---|
-|![](icons/swate_16x16.png)|![](icons/swate_20x20.png)|![](icons/swate_24x24.png)|![](icons/swate_32x32.png)|![](icons/swate_40x40.png)|![](icons/swate_48x48.png)|![](icons/swate_64x64.png)|![](icons/swate_80x80.png)|![](icons/swate_96x96.png)|
+|![](icons/Swate/Excel/swate_16x16.png)|![](icons/Swate/Excel/swate_20x20.png)|![](icons/Swate/Excel/swate_24x24.png)|![](icons/Swate/Excel/swate_32x32.png)|![](icons/Swate/Excel/swate_40x40.png)|![](icons/Swate/Excel/swate_48x48.png)|![](icons/Swate/Excel/swate_64x64.png)|![](icons/Swate/Excel/swate_80x80.png)|![](icons/Swate/Excel/swate_96x96.png)|
+
+
+#### full width
+
+##### transparent background
+
+![Swate_logo_bg_transparent](logos/Swate/Swate_logo_bg_transparent.svg)
+
+##### for excel (transparent background)
+
+![Swate_logo_bg_transparent](logos/Swate/Swate_logo_for_excel.svg)
+
+##### black background
+
+![Swate_logo_bg_black](logos/Swate/Swate_logo_bg_black.svg)
+
+##### white background
+
+![Swate_logo_bg_transparent](logos/Swate/Swate_logo_bg_white.svg)
+
+##### darkblue background
+
+![Swate_logo_bg_darkblue](logos/Swate/Swate_logo_bg_darkblue.svg)
+
+##### lightblue background
+
+![Swate_logo_bg_lightblue](logos/Swate/Swate_logo_bg_lightblue.svg)
 
 ## Colors
 
