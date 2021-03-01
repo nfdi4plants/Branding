@@ -5,6 +5,7 @@ logos, colorschemes, etc. of DataPLANT and associated applications
 <!-- TOC -->
 
 - [Fonts](#fonts)
+- [Presentation templates](#presentation-templates)
 - [Logos](#logos)
     - [DataPLANT](#dataplant)
         - [favicons](#favicons)
@@ -43,6 +44,10 @@ logos, colorschemes, etc. of DataPLANT and associated applications
 ## Fonts
 
 The main font of all logos is [Gulim](https://gettyfonts.net/de/font/gulim/download)
+
+## Presentation templates
+
+- [PowerPoint](./presentation-templates/DataPLANT_ppt_template.pptx)
 
 ## Logos
 
