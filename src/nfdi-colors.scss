@@ -130,6 +130,7 @@ $red-lighter-70         : #ECBBC3;
 $red-lighter-80         : #F2D2D7;
 $red-lighter-90         : #F8E8EB;
 
+@import "./constants.scss";
 
 // taken from https://medium.com/dev-channel/using-sass-to-automatically-pick-text-colors-4ba7645d2796
 @function luminance($color) {
