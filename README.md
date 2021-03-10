@@ -27,6 +27,15 @@ logos, colorschemes, etc. of DataPLANT and associated applications
             - [white background](#white-background)
             - [darkblue background](#darkblue-background-1)
             - [lightblue background](#lightblue-background-1)
+    - [Spawn](#spawn)
+        - [full width](#full-width-2)
+            - [transparent background](#transparent-background-2)
+            - [for word (transparent background)](#for-word-transparent-background)
+            - [for word mint variant (transparent background)](#for-word-mint-variant-transparent-background)
+            - [black background](#black-background-2)
+            - [white background](#white-background-1)
+            - [darkblue background](#darkblue-background-2)
+            - [lightblue background](#lightblue-background-2)
 - [Colors](#colors)
     - [TLDR;](#tldr)
     - [Light/Dark Base Colors](#lightdark-base-colors)
@@ -155,6 +164,41 @@ The main font of all logos is [Gulim](https://gettyfonts.net/de/font/gulim/downl
 ##### lightblue background
 
 ![Swate_logo_bg_lightblue](logos/Swate/Swate_logo_bg_lightblue.svg)
+
+
+### Spawn
+
+#### full width
+
+##### transparent background
+
+![Spawn_logo_bg_transparent](logos/Spawn/Spawn_logo_bg_transparent.svg)
+
+##### for word (transparent background)
+
+![Spawn_logo_bg_transparent](logos/Spawn/Spawn_logo_for_word.svg)
+
+##### for word mint variant (transparent background)
+
+![Spawn_logo_bg_transparent](logos/Spawn/Spawn_logo_for_word_mint.svg)
+
+##### black background
+
+![Spawn_logo_bg_black](logos/Spawn/Spawn_logo_bg_black.svg)
+
+##### white background
+
+![Spawn_logo_bg_transparent](logos/Spawn/Spawn_logo_bg_white.svg)
+
+##### darkblue background
+
+![Spawn_logo_bg_darkblue](logos/Spawn/Spawn_logo_bg_darkblue.svg)
+
+##### lightblue background
+
+![Spawn_logo_bg_lightblue](logos/Spawn/Spawn_logo_bg_lightblue.svg)
+
+
 
 ## Colors
 
