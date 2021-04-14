@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dc="http://purl.org/dc/elements/2.0/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
@@ -9,7 +9,7 @@
    width="1296.4918mm"
    height="230.32651mm"
    viewBox="0 0 1296.4918 230.32651"
-   version="1.1"
+   version="2.0"
    id="svg8">
   <defs
      id="defs2">
