@@ -36,6 +36,9 @@ logos, colorschemes, etc. of DataPLANT and associated applications
             - [white background](#white-background-1)
             - [darkblue background](#darkblue-background-2)
             - [lightblue background](#lightblue-background-2)
+    - [ARCtrl](#arctrl)
+        - [full width](#full-width-3)
+            - [transparent background](#transparent-background-3)
 - [Colors](#colors)
     - [TLDR;](#tldr)
     - [Light/Dark Base Colors](#lightdark-base-colors)
@@ -198,7 +201,15 @@ The main font of all logos is [Gulim](https://gettyfonts.net/de/font/gulim/downl
 
 ![Spawn_logo_bg_lightblue](logos/Spawn/Spawn_logo_bg_lightblue.svg)
 
+### ARCtrl
 
+#### full width
+
+##### transparent background
+
+|Square | Horizontal | Vertical |
+| - | - | - |
+| ![square](https://github.com/nfdi4plants/ARCtrl/blob/main/logos/ARCtrl_square.png) | ![horizontal](https://github.com/nfdi4plants/ARCtrl/blob/main/logos/ARCtrl_horizontal.png) |  ![vertical](https://github.com/nfdi4plants/ARCtrl/blob/main/logos/ARCtrl_vertical.png) |
 
 ## Colors
 
